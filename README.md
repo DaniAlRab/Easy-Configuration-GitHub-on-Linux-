@@ -68,9 +68,8 @@ ssh -T git@github.com
 
 You should see a message like:
 
-```
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.
-```
+
 
 ### Step 7: Clone a Repository
 Now you can clone repositories using SSH.
